@@ -69,6 +69,6 @@ grid .buttons.equal -row 3 -column 3
 grid .buttons.add -row 0 -column 3
 
 
-# Add the 0 button at the bottom center
+# Add the 0 
 button .buttons.b0 -text 0 -width 4 -height 2 -command "numberClicked 0"
 grid .buttons.b0 -row 3 -column 1
