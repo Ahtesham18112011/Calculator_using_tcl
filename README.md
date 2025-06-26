@@ -1,5 +1,5 @@
 # Veiw in Tk graphical console 
 
-![Screenshot (14)](https://github.com/user-attachments/assets/ad0685fb-48d9-4048-904b-ee960f044776)
+![calc](https://github.com/user-attachments/assets/a00cb6dc-ca52-4ed7-9f4d-a3de1199f8db)
 
-![Screenshot (15)](https://github.com/user-attachments/assets/3b603934-7e81-4deb-8388-e5c9b7d81bce)
+![conv](https://github.com/user-attachments/assets/e69f4b06-1755-4417-a1c9-8806e0d8d802)
